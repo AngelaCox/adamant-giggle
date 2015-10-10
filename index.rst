@@ -5,7 +5,7 @@
 
 Welcome to adamant-giggle's documentation!
 ==========================================
-A small thing to help me learn how to do some stuff I haven't tried before.
+A small thing to help me learn how to do some stuff I haven't tried before and to see if I remember what to do without asking for help
 
 Contents:
 
