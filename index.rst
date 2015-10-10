@@ -23,3 +23,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+And another thing - This guy_ is pretty cool!
+
+.. _guy: http://cycloptivity.net/about/
