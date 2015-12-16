@@ -8,6 +8,7 @@ Welcome to adamant-giggle's documentation!
 A small thing to help me learn how to do some stuff I haven't tried before and to see if I remember what to do without asking for help.
 
 I am learning about Git, GitHub, Ubuntu, ReadTheDocs and a few more. 
+Over the holidays I hope to have more of a chance to work on this!
 
 Contents:
 
